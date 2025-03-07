@@ -1,0 +1,3 @@
+This is a demonstration of Git and GitHub integration in our labmst dated 7 th march .
+ We will be displaying
+ various types of working involving git github and various features of version control.
